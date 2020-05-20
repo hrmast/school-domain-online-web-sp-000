@@ -14,5 +14,7 @@ class School
       @student = student
       @roster << student
 
+    end
+
   end
 end
