@@ -3,6 +3,7 @@ class School
 
   def initialized(school)
     @school = school
-    NEW = {}
+    
+
   end
 end
