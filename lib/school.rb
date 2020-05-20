@@ -3,8 +3,8 @@ class School
 
   NEW = []
 
-  def initialized(school)
-    @school = school
+  def initialized(school_name)
+    @school = school_name
 
 
   end
