@@ -16,5 +16,6 @@ class School
       @roster[grade] << name
     eles
       @roster[grade] = [name]
+    end
   end
 end
