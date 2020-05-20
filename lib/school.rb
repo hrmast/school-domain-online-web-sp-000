@@ -11,4 +11,8 @@ class School
     self.roster[grade] ||= []
     self.roster[grade] << name
   end
+
+  def grade
+
+  end
 end
