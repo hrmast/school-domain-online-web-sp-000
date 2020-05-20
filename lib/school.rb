@@ -17,4 +17,6 @@ class School
   end
 
   def sort(name, grade)
+
+  end
 end
