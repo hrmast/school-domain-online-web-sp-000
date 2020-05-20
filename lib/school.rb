@@ -12,4 +12,3 @@ class School
     NEW << new
   end
 end
-
